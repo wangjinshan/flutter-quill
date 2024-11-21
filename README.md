@@ -52,18 +52,26 @@ You can join our [Slack Group] for discussion.
 
 ## 📚 Table of contents
 
-- [📦 Installation](#-installation)
-- [🛠 Platform Setup](#-platform-setup)
-- [🚀 Usage](#-usage)
-- [🔤 Input / Output](#-input--output)
-- [⚙️ Configurations](#️-configurations)
-- [📦 Embed Blocks](#-embed-blocks)
-- [🔄 Delta Conversion](#-delta-conversion)
-- [📝 Rich Text Paste](#-rich-text-paste)
-- [🌐 Translation](#-translation)
-- [🧪 Testing](#-testing)
-- [🤝 Contributing](#-contributing)
-- [📜 Acknowledgments](#-acknowledgments)
+- [Flutter Quill](#flutter-quill)
+  - [📚 Table of contents](#-table-of-contents)
+  - [📦 Installation](#-installation)
+  - [🛠 Platform Setup](#-platform-setup)
+    - [Android Configuration for `quill_native_bridge`](#android-configuration-for-quill_native_bridge)
+  - [🚀 Usage](#-usage)
+    - [💥 Breaking Changes](#-breaking-changes)
+  - [🔤 Input / Output](#-input--output)
+    - [🔗 Links](#-links)
+  - [⚙️ Configurations](#️-configurations)
+    - [🔗 Links](#-links-1)
+    - [🖋 Font Family](#-font-family)
+  - [📦 Embed Blocks](#-embed-blocks)
+    - [🛠️ Using the embed blocks from `flutter_quill_extensions`](#️-using-the-embed-blocks-from-flutter_quill_extensions)
+  - [🔄 Delta Conversion](#-delta-conversion)
+  - [📝 Rich Text Paste](#-rich-text-paste)
+  - [🌐 Translation](#-translation)
+  - [🧪 Testing](#-testing)
+  - [🤝 Contributing](#-contributing)
+  - [📜 Acknowledgments](#-acknowledgments)
 
 ## 📦 Installation
 
@@ -389,3 +397,5 @@ See [Contributing](./CONTRIBUTING.md) for more details.
 [Slack Group]: https://join.slack.com/t/bulletjournal1024/shared_invite/zt-fys7t9hi-ITVU5PGDen1rNRyCjdcQ2g
 
 [Sample Page]: https://github.com/singerdmx/flutter-quill/blob/master/example/lib/main.dart
+
+<!-- 修改适配鸿蒙啊 -->
